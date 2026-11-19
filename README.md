@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) example project to use with [`gorunn`](https://github.com/parapidcom/gorunn).
+This is a [Next.js](https://nextjs.org) example project to use with [`gorunn`](https://github.com/magip-tech/gorunn).
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ Create file **myreact.yaml** with contents :
 
 ```bash
 name: myreact
-git_repo: git@github.com:parapidcom/gorunn-example-react
+git_repo: git@github.com:magip-tech/gorunn-example-react
 type: node
 version: "20"
 endpoint: myreact.local.gorunn.io
